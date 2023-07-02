@@ -1,4 +1,4 @@
-## What is Anchor Protocol?
+ggg## What is Anchor Protocol?
 
 Anchor Protocol is a well-known lending/borrowing application on the Terra Blockchain. Since the crash in May '22 the protocol is not maintained anymore by it's original owners. Due to the latest WASM upgrade most of the contracts of the protocol are not even usable anymore. The protocols governance token used to be listed under the symbol ANC. Information about the ANC token contract can be found on the official [documentation](https://docs.anchorprotocol.com/anchor-2/smart-contracts/deployed-contracts#cw20-compliant-token-contracts-4), which is still hosted:
 
